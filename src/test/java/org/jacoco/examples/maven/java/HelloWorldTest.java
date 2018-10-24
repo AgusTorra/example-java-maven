@@ -15,8 +15,13 @@ public class HelloWorldTest {
 	}
 	
 	@Test
-	public void testGetMessage() {
+	public void getMessageFromWorldTest() {
 		assertEquals("Hello World!", subject.getMessage(false));
+	}
+	
+	@Test
+	public void getMessageFromUniverseTest() {
+		assertEquals("Hello Universe!", subject.getMessage(true));
 	}
 	
 }
