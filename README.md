@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/AgusTorra/example-java-maven.svg?branch=master)](https://travis-ci.org/AgusTorra/example-java-maven)
+[![codecov](https://codecov.io/gh/AgusTorra/example-java-maven/branch/master/graph/badge.svg)](https://codecov.io/gh/AgusTorra/example-java-maven)
 
 # [Codecov][1] Java Maven Example
 ## Guide
